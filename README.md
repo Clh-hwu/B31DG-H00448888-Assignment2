@@ -26,11 +26,7 @@ This repository contains the source code for a real-time monitoring system imple
 - Test different scenarios and conditions to evaluate the system's performance and responsiveness.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Clément Héritier (https://github.com/Clh-hwu)
 
 ## Acknowledgements
-- Special thanks to the creators and contributors of FreeRTOS for providing a powerful real-time operating system for embedded systems.
 - Inspiration and guidance from various online tutorials, forums, and community resources.
