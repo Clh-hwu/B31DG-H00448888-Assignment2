@@ -26,7 +26,7 @@ This repository contains the source code for a real-time monitoring system imple
 - Test different scenarios and conditions to evaluate the system's performance and responsiveness.
 
 ## Contributors
-- Clément Héritier (https://github.com/Clh-hwu)
+- Clément Héritier (https://github.com/Clh-hwu/B31DG-H00448888-Assignment2.git)
 
 ## Acknowledgements
 - Inspiration and guidance from various online tutorials, forums, and community resources.
